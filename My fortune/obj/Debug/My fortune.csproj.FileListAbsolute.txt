@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\My fortune\My fortune\bin\Debug\My fortune.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\My fortune\My fortune\bin\Debug\My fortune.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\My fortune\My fortune\bin\Debug\My fortune.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\My fortune\My fortune\obj\Debug\My fortune.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\My fortune\My fortune\obj\Debug\My fortune.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\My fortune\My fortune\obj\Debug\My fortune.pdb
